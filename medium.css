@@ -1,0 +1,27 @@
+.bg-yellow{
+    background-color: #FFC017;
+}
+.border-bottom{
+    border-bottom:1px solid rgb(41,41,41) ;
+}
+.buton{
+    background-color: black;
+    border-radius: 13px;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+.ayarla{
+    display: inline;
+}
+.ayarla,p{
+    display: inline;
+}
+.özel,li{
+    display: inline;
+    flex-direction: row-reverse;
+}
+.düzen{
+    margin-top: 30px;
+}
